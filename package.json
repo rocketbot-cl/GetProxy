@@ -1,6 +1,6 @@
 {
     "author":"David Cuello - Rocketbot - <david@rocketbot.cl>",
-    "description": "get proxy listo for multiple servers",
+    "description": "get proxy list for multiple servers",
     "disclaimer":"THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.",
     "version":"0.1",
     "license": "MIT",
@@ -24,13 +24,13 @@
         {
             "en": {
                 "title": "GetProxy List",
-                "description": "Get prxy list for many server",
+                "description": "Get proxy list for many server",
                 "title_options": null,
                 "options":null
             },
             "es": {
                 "title": "GetProxy List",
-                "description": "Get prxy list for many server",
+                "description": "Obtiene una lista de proxy desde distintos servidores",
                 "title_options": null,
                 "options":null
             },
