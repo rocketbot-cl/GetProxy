@@ -1,0 +1,102 @@
+{
+    "author":"David Cuello - Rocketbot - <david@rocketbot.cl>",
+    "description": "get proxy listo for multiple servers",
+    "disclaimer":"THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.",
+    "version":"0.1",
+    "license": "MIT",
+    "homepage":"http://rocketbot.co/",
+    "dependencies": {
+        "Proxy-List-Scrapper": "0.1.0"
+    },
+    "linux": true,
+    "windows":true,
+    "mac":true,
+    "docker":true,
+    "name": "GetProxy",
+    "title": {
+        "en": "GetProxy",
+        "es": "GetProxy",
+        "cn": "GetProxy"
+    },
+    "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjwhRE9DVFlQRSBzdmcgIFBVQkxJQyAnLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4nICAnaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkJz48c3ZnIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDY0IDY0IiBoZWlnaHQ9IjY0cHgiIGlkPSJMYXllcl8xIiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCA2NCA2NCIgd2lkdGg9IjY0cHgiIHhtbDpzcGFjZT0icHJlc2VydmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPjxnPjxwYXRoIGQ9IiAgIE01Miw1NS41YzAsMS4xLTAuOSwyLTIsMkgxNGMtMS4xLDAtMi0wLjktMi0yVjguNWMwLTEuMSwwLjktMiwyLTJINTBjMS4xLDAsMiwwLjksMiwyVjU1LjV6IiBmaWxsPSJub25lIiBzdHJva2U9IiM0RDRENEQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBzdHJva2Utd2lkdGg9IjIiLz48bGluZSBmaWxsPSJub25lIiBzdHJva2U9IiM0RDRENEQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBzdHJva2Utd2lkdGg9IjIiIHgxPSIxMiIgeDI9IjUwLjgiIHkxPSIzOS43IiB5Mj0iMzkuNyIvPjxsaW5lIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzRENEQ0RCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHN0cm9rZS13aWR0aD0iMiIgeDE9IjEyIiB4Mj0iNTIiIHkxPSIyMi43IiB5Mj0iMjIuNyIvPjxjaXJjbGUgY3g9IjQ0LjUiIGN5PSIxMy41IiBmaWxsPSJub25lIiByPSIyLjUiIHN0cm9rZT0iIzRENEQ0RCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHN0cm9rZS13aWR0aD0iMiIvPjxjaXJjbGUgY3g9IjQ0LjUiIGN5PSIzMiIgZmlsbD0ibm9uZSIgcj0iMi41IiBzdHJva2U9IiM0RDRENEQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBzdHJva2Utd2lkdGg9IjIiLz48Y2lyY2xlIGN4PSI0NC41IiBjeT0iNDkiIGZpbGw9Im5vbmUiIHI9IjIuNSIgc3Ryb2tlPSIjNEQ0RDREIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgc3Ryb2tlLXdpZHRoPSIyIi8+PGxpbmUgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNEQ0RDREIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgc3Ryb2tlLXdpZHRoPSIyIiB4MT0iMTkuMyIgeDI9IjM3LjMiIHkxPSIxMy41IiB5Mj0iMTMuNSIvPjxsaW5lIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzRENEQ0RCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHN0cm9rZS13aWR0aD0iMiIgeDE9IjE5LjMiIHgyPSIzNy4zIiB5MT0iMzIuNSIgeTI9IjMyLjUiLz48bGluZSBmaWxsPSJub25lIiBzdHJva2U9IiM0RDRENEQiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBzdHJva2Utd2lkdGg9IjIiIHgxPSIxOS4zIiB4Mj0iMzcuMyIgeTE9IjQ5LjUiIHkyPSI0OS41Ii8+PC9nPjwvc3ZnPg==",
+    "children": [
+
+        {
+            "en": {
+                "title": "GetProxy List",
+                "description": "Get prxy list for many server",
+                "title_options": null,
+                "options":null
+            },
+            "es": {
+                "title": "GetProxy List",
+                "description": "Get prxy list for many server",
+                "title_options": null,
+                "options":null
+            },
+            "form": {
+                "css": "",
+                "inputs": [
+
+                    {
+                        "type": "select",
+                        "placeholder": {
+                            "es": "*",
+                            "en": "*",
+                            "cn": "*"
+                        },
+                        "title": {
+                            "es": "Proxy List",
+                            "en": "Proxy List",
+                            "cn": "Proxy List"
+                        },
+                        "options":[
+                           
+                           {"value":"SSL","title": "https://www.sslproxies.org/"},
+                           {"value":"GOOGLE","title": "https://www.google-proxy.net/"},
+                           {"value":"ANANY","title": "https://free-proxy-list.net/anonymous-proxy.html"},
+                           {"value":"UK","title": "https://free-proxy-list.net/uk-proxy.html"},
+                           {"value":"US","title": "https://www.us-proxy.org/"},
+                           {"value":"NEW","title": "https://free-proxy-list.net/"},
+                           {"value":"SPYS.ME","title":"http://spys.me/proxy.txt"},
+                           {"value":"proxyscrape","title": "https://api.proxyscrape.com/?request=getproxies&proxytype=all&country=all&ssl=all&anonymity=all"},
+                           {"value":"ALL","title": "ALL"}
+                        ],
+                        "id": "category",
+                        "css": "col-md-12"
+                    } ,
+                    {
+                        "type": "input",
+                        "placeholder": {
+                          "es": "Variable",
+                          "en": "Variable"
+                        },
+                        "title": {
+                          "es": "Variables",
+                          "en": "Variables"
+                        },
+                        "help": {
+                          "es": "Nombres de variables sin {} y separadas por coma",
+                          "en": "Variable name without {} and separated by comma"
+                        },
+                        "id": "result",
+                        "css": "col-md-12"
+                      }
+                ]
+            },
+            "video_youtube": "",
+            "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjxzdmcgaWQ9IkxheWVyXzEiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDY0IDY0OyIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgNjQgNjQiIHhtbDpzcGFjZT0icHJlc2VydmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+Cgkuc3Qwe2ZpbGw6I0I0RTZERDt9Cgkuc3Qxe2ZpbGw6IzgwRDRDNDt9Cgkuc3Qye2ZpbGw6I0QyRjBFQTt9Cgkuc3Qze2ZpbGw6I0ZGRkZGRjt9Cgkuc3Q0e2ZpbGw6I0ZCRDg3Mjt9Cgkuc3Q1e2ZpbGw6I0RCNzc2Nzt9Cgkuc3Q2e2ZpbGw6I0YzOEU3QTt9Cgkuc3Q3e2ZpbGw6I0Y2QUY2Mjt9Cgkuc3Q4e2ZpbGw6IzMyQTQ4RTt9Cgkuc3Q5e2ZpbGw6I0EzOEZEODt9Cgkuc3QxMHtmaWxsOiM3QzY0QkQ7fQoJLnN0MTF7ZmlsbDojRUFBMTU3O30KCS5zdDEye2ZpbGw6Izk2ODFDRjt9Cgkuc3QxM3tmaWxsOiNGOUM0NkE7fQoJLnN0MTR7ZmlsbDojQ0U2QjYxO30KPC9zdHlsZT48Zz48ZWxsaXBzZSBjbGFzcz0ic3Q1IiBjeD0iMzIiIGN5PSIzMy4zMiIgcng9IjI0IiByeT0iNi4yMiIvPjxwYXRoIGNsYXNzPSJzdDYiIGQ9Ik00MC43MywxMS4xNGMtMC4yNy0xLjQ1LTEuNTEtMi41MS0yLjk1LTIuNTFjMCwwLDAsMCwwLDBjLTAuNzksMC0xLjU2LDAuMzMtMi4xMiwwLjkzICAgYy0wLjUxLDAuNTUtMS4wMywxLjA5LTEuNTUsMS42NGMtMS4xNywxLjI1LTMuMDcsMS4yNS00LjI0LDBjLTAuNTItMC41NS0xLjAzLTEuMS0xLjU1LTEuNjRjLTAuNTYtMC42LTEuMzItMC45My0yLjEyLTAuOTMgICBjLTEuNDQsMC0yLjY3LDEuMDYtMi45NSwyLjUxYy0xLjQ4LDcuODctMi45NiwxMy4zNS00LjQxLDIwLjYzYzguNjQsMi4wNywxNy42NCwyLjA3LDI2LjI4LDBDNDMuNjksMjQuNDksNDIuMjEsMTkuMDEsNDAuNzMsMTEuMTQgICB6Ii8+PGc+PHBhdGggY2xhc3M9InN0MTAiIGQ9Ik0zNi4xMSw0OS43NWMtMi4yNy0yLjI3LTUuOTYtMi4yNy04LjIzLDBsLTEuNjYtMS42NmMzLjE4LTMuMTgsOC4zNi0zLjE4LDExLjU0LDBMMzYuMTEsNDkuNzV6Ii8+PC9nPjxjaXJjbGUgY2xhc3M9InN0OSIgY3g9IjIzLjUxIiBjeT0iNDguOTIiIHI9IjYuNDUiLz48Y2lyY2xlIGNsYXNzPSJzdDkiIGN4PSI0MC40OSIgY3k9IjQ4LjkyIiByPSI2LjQ1Ii8+PC9nPjwvc3ZnPg==",
+            "module": "GetProxy",
+            "module_name": "GetProxy",
+            "visible": true,
+            "options": false,
+            "father": "module",
+            "group": "scripts",
+            "linux": true,
+            "windows":true,
+            "mac":true,
+            "docker":true
+        }
+        
+    ]
+}
